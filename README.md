@@ -1,3 +1,3 @@
 # modchs.GitHub.io
 
-Building personal website
+Personal website
