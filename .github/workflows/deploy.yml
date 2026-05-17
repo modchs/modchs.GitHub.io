@@ -1,12 +1,11 @@
 name: Deploy PRISM to GitHub Pages
 
 on:
-  # Push triggers are disabled by default for template users.
-  # Uncomment the lines below to enable automatic deployment on push.
-  # push:
-  #  branches: 
-  #      - main
-  #      - ci
+  # 推送代码到 main 分支时自动部署
+  push:
+    branches: 
+        - main
+  # 也可以手动触发
   workflow_dispatch:
 
 permissions:

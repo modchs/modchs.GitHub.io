@@ -1,12 +1,12 @@
 [site]
-title = "刘嘉乐"
-description = "某某大学博士生个人主页。"
-last_updated = "2025年11月18日"
+title = "柴海山"
+description = "个人主页。"
+last_updated = "2026年5月17日"
 
 [author]
-name = "刘嘉乐"
+name = "柴海山"
 title = "博士生"
-institution = "某某大学"
+institution = "南方科技大学大学理学院地球与空间科学系"
 
 [social]
 location = "城市，国家"
@@ -28,22 +28,10 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "教学"
-type = "page"
-target = "teaching"
-href = "/teaching"
-
-[[navigation]]
 title = "奖项"
 type = "page"
 target = "awards"
 href = "/awards"
-
-[[navigation]]
-title = "服务"
-type = "page"
-target = "services"
-href = "/services"
 
 [[navigation]]
 title = "简历"
